@@ -15,9 +15,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ruthranayaki213&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 📊 Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/ruthra_2003?theme=dark&font=Snippet)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Ruthranayaki213&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ruthra_2003?theme=nord&font=Snippet)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
