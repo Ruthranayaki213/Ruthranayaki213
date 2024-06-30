@@ -21,6 +21,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruthranayaki213&show_icons=true&locale=en&layout=compact" alt="ruthranayaki213" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthranayaki213&show_icons=true&locale=en" alt="ruthranayaki213" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ruthranayaki213&show_icons=true&locale=en" alt="ruthranayaki213" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruthranayaki213&" alt="ruthranayaki213" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ruthranayaki213&" alt="ruthranayaki213" /></p>
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ruthra_2003?theme=light&font=Snippet)
